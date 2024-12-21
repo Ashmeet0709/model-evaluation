@@ -33,7 +33,7 @@ For this project, the roll number used is **102203973**, which selects **Target4
      - R2 Score
 
 ## Results
-![Results](model%20results/results_model.png)
+![Results](model%20results/model_results.png)
 
 
 ## How to Run the Code
